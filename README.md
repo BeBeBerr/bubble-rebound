@@ -4,3 +4,7 @@
 
 仅实现了避障算法本身，但可以较为容易地和其他路径规划算法配合，组成 behavior based robotics 。
 
+仿真结果：
+
+![](https://raw.githubusercontent.com/BeBeBerr/bubble-rebound/master/record.gif)
+
